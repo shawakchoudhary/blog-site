@@ -6,4 +6,7 @@ It involves adding New blog page in which you can add your new blog and home pag
 It also feature of deleting blog by going to the detailed page(By clicking the blog in the home page) of blog that you want to delete.
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/78065798/138897016-b416abf2-f0a8-4194-a1bf-5dde53c453dd.png)
+
+After deleting the blog you will automatically directed to the home page.
+
 ![Screenshot (50)](https://user-images.githubusercontent.com/78065798/138897071-f8320c3f-8338-482e-836e-4865e19ecb97.png)
